@@ -279,6 +279,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Trousseau",
+    img: "3nJX5Dm.jpeg",
+    opts: {
+      series: ["ii"],
+      npc: true,
+    }
+  },
+  {
     name: "Bergomi",
     img: "SqLsLj6.jpeg",
     opts: {
