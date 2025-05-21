@@ -14,23 +14,6 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Filter by Character Story",
-    key: "story",
-    tooltip: "Check this to restrict to certain stories.",
-    checked: false,
-    sub: [
-      { name: "Ochette", key: "oct" },
-      { name: "Castti", key: "cas" },
-      { name: "Throne", key: "thr" },
-      { name: "Osvald", key: "osv"},
-      { name: "Partitio", key: "par"},
-      { name: "Agnea", key: "agn"},
-      { name: "Temenos", key: "tem"},
-      { name: "Hikari", key: "hik"},
-      { name: "Other", key: "oth"},
-    ]
-  },
-  {
     name: "Filter NPCs",
     key: "npc",
     tooltip: 'Check this if you want to remove NPCs from being listed.',
@@ -44,7 +27,6 @@ dataSet[dataSetVersion].characterData = [
     img: "b9P2SXK.jpeg",
     opts: {
       series: ["ii"],
-      story: ["oct"],
     }
   },
   {
@@ -52,7 +34,6 @@ dataSet[dataSetVersion].characterData = [
     img: "UD7t3qQ.jpeg",
     opts: {
       series: ["ii"],
-      story: ["cas"],
     }
   },
   {
@@ -103,7 +84,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -112,7 +92,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -121,7 +100,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -130,7 +108,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -139,7 +116,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -148,7 +124,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -157,7 +132,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -166,7 +140,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -175,7 +148,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -184,7 +156,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -193,7 +164,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -202,7 +172,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -211,7 +180,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -220,7 +188,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -229,7 +196,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -238,7 +204,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -247,7 +212,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -256,7 +220,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -265,7 +228,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -274,7 +236,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -283,7 +244,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -292,7 +252,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -301,7 +260,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -310,7 +268,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -319,7 +276,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["cas"],
     }
   },
   {
@@ -328,7 +284,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },
   {
@@ -337,7 +292,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },  {
     name: "Donnie",
@@ -345,7 +299,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },
   {
@@ -354,7 +307,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },
   {
@@ -363,7 +315,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },
   {
@@ -372,7 +323,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },
   {
@@ -381,7 +331,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },
   {
@@ -390,7 +339,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },
   {
@@ -399,7 +347,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },
   {
@@ -408,7 +355,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },
   {
@@ -417,7 +363,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"],
     }
   },  {
     name: "Bale",
@@ -425,7 +370,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["osv"],
     }
   },
   {
@@ -434,7 +378,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["osv"],
     }
   },
   {
@@ -443,7 +386,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["osv"],
     }
   },
   {
@@ -452,7 +394,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["osv"],
     }
   },
   {
@@ -461,7 +402,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["osv"],
     }
   },
   {
@@ -470,7 +410,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["osv"],
     }
   },
   {
@@ -479,7 +418,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["osv"],
     }
   },
   {
@@ -488,7 +426,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["osv"],
     }
   },
   {
@@ -497,7 +434,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },
   {
@@ -506,7 +442,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },
   {
@@ -515,7 +450,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },
   {
@@ -524,7 +458,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },
   {
@@ -533,7 +466,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },
   {
@@ -542,7 +474,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },  {
     name: "Papp",
@@ -550,7 +481,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },
   {
@@ -559,7 +489,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },
   {
@@ -568,7 +497,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },
   {
@@ -577,7 +505,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },
   {
@@ -586,7 +513,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["par"],
     }
   },  {
     name: "Coda",
@@ -594,7 +520,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -603,7 +528,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -612,7 +536,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -621,7 +544,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -630,7 +552,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -639,7 +560,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -648,7 +568,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },  {
     name: "Laila",
@@ -656,7 +575,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -665,7 +583,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -674,7 +591,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -683,7 +599,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -692,7 +607,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -701,7 +615,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"],
     }
   },
   {
@@ -710,7 +623,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -719,7 +631,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -728,7 +639,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -737,7 +647,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -746,7 +655,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },  {
     name: "Pontif Jorg",
@@ -754,7 +662,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -763,7 +670,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -772,7 +678,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -781,7 +686,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -790,7 +694,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -799,7 +702,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -808,7 +710,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["tem"],
     }
   },
   {
@@ -817,7 +718,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -826,7 +726,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -835,7 +734,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -844,7 +742,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -853,7 +750,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -862,7 +758,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -871,7 +766,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -880,7 +774,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -889,7 +782,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -898,7 +790,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },  {
     name: "Ritsu",
@@ -906,7 +797,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -915,7 +805,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -924,7 +813,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -933,7 +821,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -942,7 +829,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -951,7 +837,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -960,7 +845,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["hik"],
     }
   },
   {
@@ -969,7 +853,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oth"],
     }
   },  {
     name: "Alpates",
@@ -977,7 +860,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["thr"], ["tem"],
     }
   },
   {
@@ -986,7 +868,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oth"]
     }
   },
   {
@@ -995,7 +876,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"],
     }
   },
   {
@@ -1004,7 +884,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oth"],
     }
   },
   {
@@ -1013,7 +892,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["osv"], ["par"],
     }
   },
   {
@@ -1022,7 +900,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["oct"], ["cas"],
     }
   },
   {
@@ -1031,17 +908,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ii"],
       npc: true,
-      story: ["agn"], ["hik"]
     }
   },
-  {
-    name: "Trousseau",
-    img: "3nJX5Dm.jpeg",
-    opts {
-      series: ["ii"],
-      npc: true,
-      story: ["cas"],
-    }
-  }
 
 ];
