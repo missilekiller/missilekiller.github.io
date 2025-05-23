@@ -1129,7 +1129,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Alfyn",
     img: "Q8LKnXY.jpeg",
     opts: {
-      series: ["ii"],
+      series: ["i"],
       trav: true,
       story: ["alf"],
     }
