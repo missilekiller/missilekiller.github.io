@@ -1810,7 +1810,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lily",
+    name: "Nina",
     img: "Bk7mrqm.jpeg",
     opts: {
       series: ["i"],
