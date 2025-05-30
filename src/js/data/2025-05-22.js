@@ -1318,7 +1318,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Russel",
     img: "LoScKnv.jpeg",
     opts: {
-      series: ["ii"],
+      series: ["i"],
       npc: true,
       story: ["cyr"],
     }
